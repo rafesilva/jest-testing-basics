@@ -1,0 +1,24 @@
+{
+  "name": "jest-testing-basics",
+  "version": "1.0.0",
+  "description": "Basics functionality of Jest for unit testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafesilva/jest-testing-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafesilva/jest-testing-basics/issues"
+  },
+  "homepage": "https://github.com/rafesilva/jest-testing-basics#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "jest": "^23.6.0"
+  }
+}
